@@ -2,7 +2,7 @@
 embed template parser | for Zenn
 as EJS
 
-```ejs
+```tsx
 <ul id={uuid}>
   {for content of contents}
     <li>
