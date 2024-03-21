@@ -1,5 +1,5 @@
 # template-x
-embed template parser | for Zenn
+embed template parser | for Zenn  
 as EJS
 
 ```tsx
